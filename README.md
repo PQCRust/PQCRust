@@ -1,1 +1,1 @@
-# PQRust
+# PQCRust
