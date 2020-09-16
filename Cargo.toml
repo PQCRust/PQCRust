@@ -9,5 +9,8 @@ license-file = "not-licensed.md"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [workspace]
+members = [
+
+]
 
 [dependencies]
