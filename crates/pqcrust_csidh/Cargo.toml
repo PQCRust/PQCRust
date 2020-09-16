@@ -1,16 +1,9 @@
 [package]
-name = "pqcrust"
+name = "pqcrust_csidh"
 version = "0.1.0"
 authors = ["Marcel Müller <neikos@neikos.email>"]
 edition = "2018"
-description = "This is currently a placeholder for a future implementation"
-license-file = "not-licensed.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[workspace]
-members = [
-    "crates/*"
-]
 
 [dependencies]
